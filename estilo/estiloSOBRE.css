@@ -1,0 +1,76 @@
+/* Estilos para o sobre.html */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.descricao {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.descricao h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.descricao p {
+    font-size: 16px;
+}
+
+.habilidades {
+    text-align: center;
+}
+
+.habilidades h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.habilidades ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
