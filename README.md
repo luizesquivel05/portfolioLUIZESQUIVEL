@@ -15,7 +15,7 @@ Para instalar o PORTFOLIOLUIZESQUIVEL, siga estas etapas:
 
 No git (rodado pelo terminal):
 ```
-    git clone https://github.com/luizesquivel05/PORTFOLIOLUIZESQUIVEL
+    git clone https://github.com/luizesquivel05/portfolioLUIZESQUIVEL
 ```
 
 ## ☕ Usando PORTFOLIOLUIZESQUIVEL:
@@ -90,7 +90,7 @@ To install PORTFOLIOLUIZESQUIVEL, follow these steps:
 
 On Git (run through the terminal):
 ```
-git clone https://github.com/luizesquivel05/PORTFOLIOLUIZESQUIVEL
+git clone https://github.com/luizesquivel05/portfolioLUIZESQUIVEL
 ```
 
 ## ☕ Using PORTFOLIOLUIZESQUIVEL:
